@@ -10,7 +10,7 @@ This project is an automated testing suite for the Aadarsh Fancy e-commerce webs
   6. JUnit
   7. XPath
 
-## Feature:
+## Features
   1. Home Page Verification: Ensures the visibility of essential elements like the search bar and login link.
   2. Category Navigation: Automates navigation to the "Men" section and verifies category-specific elements.
   3. Search Functionality: Tests valid and invalid search terms, checking for correct product display or appropriate error messages.
