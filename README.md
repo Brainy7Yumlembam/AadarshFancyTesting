@@ -26,4 +26,6 @@ This project is an automated testing suite for the Aadarsh Fancy e-commerce webs
 
 ## Contributions
   Contributions and improvements are welcome! Feel free to fork this repository and submit pull requests.
+## Output
+![Screenshot (120)](https://github.com/user-attachments/assets/1f6cb20d-af0f-466f-8817-8b6550563736)
 
